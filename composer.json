@@ -28,7 +28,10 @@
     "autoload": {
         "psr-4": {
             "Helick\\CMS\\": "src/"
-        }
+        },
+        "files": [
+            "src/constants.php"
+        ]
     },
     "scripts": {
         "lint": [
