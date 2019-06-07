@@ -19,7 +19,7 @@
     ],
     "require": {
         "php": ">=7.1",
-        "helick/cms-installer": "^1.0",
+        "helick/cms-installer": "dev-master",
         "oscarotero/env": "^1.2",
         "roots/wordpress": "^5.2",
         "roots/wp-config": "^1.0",
