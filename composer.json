@@ -21,7 +21,7 @@
         "php": ">=7.1",
         "helick/cms-installer": "^1.1",
         "helick/mu-plugins-discovery": "^2.0",
-        "oscarotero/env": "^1.2",
+        "oscarotero/env": "^1.2 || ^2.0",
         "roots/wordpress": "^5.2",
         "roots/wp-config": "^1.0",
         "roots/wp-password-bcrypt": "^1.0",
